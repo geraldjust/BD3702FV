@@ -2,6 +2,7 @@
 // liman324@yandex.ru
 // rcl-radio.ru
 // BD3702FV
+// http://forum.rcl-radio.ru/viewtopic.php?id=121
 
 #ifndef BD3702_H
 #define BD3702_H
